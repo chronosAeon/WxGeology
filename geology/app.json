@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "geoInfo/geoPage"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#405f80"
+  }
+}

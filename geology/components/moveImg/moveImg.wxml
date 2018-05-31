@@ -1,0 +1,4 @@
+<!--components/moveImg/moveImg.wxml-->
+<text id='kk'>components/moveImg/moveImg.wxml</text>
+<!-- <image src='/images/M_blue.png' bindtouchstart='touchstart' bindtouchmove='touchmove' bindtouchend='touchend'></image> -->
+<canvas id='kv'style='width:100%;height:285px;margin-left:10rpx;' canvas-id='mycanvas' disable-scroll = '{{true}}'bindtouchstart='touchstart' bindtouchmove='touchmove' bindtouchend='touchend'></canvas>

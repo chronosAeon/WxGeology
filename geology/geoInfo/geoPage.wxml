@@ -1,0 +1,8 @@
+<!--geoInfo/geoPage.wxml-->
+<!-- <text>geoInfo/geoPage.wxml\r\n</text>
+<text>geoInfo/geoPage.wxml\r\n</text>
+<text>geoInfo/geoPage.wxml\r\n</text>
+<text>geoInfo/geoPage.wxml\r\n</text>
+<text>geoInfo/geoPage.wxml\r\n</text> -->
+<!-- <image src='{{imgUrl}}' class="look-image"  bindload="imageLoad" id="drawID"></image> -->
+<move_Img id='kz' centerX='{{centerX}}' centerY='{{centerY}}'></move_Img>

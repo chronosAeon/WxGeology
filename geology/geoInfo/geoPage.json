@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "move_Img": "/components/moveImg/moveImg"
+  }
+}
